@@ -1,0 +1,13 @@
+html{
+    min-height: 100%
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-size: 100%;
+    background-position: bottom;
+    background: #101010;
+    background: linear-gradient(to right, #3c405a, #101010);
+    min-height: 100%;
+}
